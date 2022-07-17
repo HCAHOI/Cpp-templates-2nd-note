@@ -1,21 +1,21 @@
 # C++-templates-2nd-note
 The note of C++ templates 2nd    
-  
-  
+
+
 新建这个repo是因为我是懒狗🐕，希望我不会半途而废🧎🏻  
 因为书是英文版而我是纯纯英语弱鸡所以会看得很慢呜呜😭  
 只会写我觉得重要或者我之前不知道的东西，所以看这些笔记代替看书是非常错误的😈   
 如果发现我有一天没有没有push请狠狠催我😿  
 如果有朋友觉得上github很麻烦我会转到gitee捏👼🏻  
-  
+
 所有示例代码在以下平台验证通过  
 OS：Arch Linux x86_64   
 Compiler：GCC 12.1.0  
 C++ Standard：C++20  
-  
+
 ## 目录/进度  
 ### PartI：The Basics 基本概念
-#### 1 Function Templates 函数模版
+#### 1 Function Templates 函数模版 ✅
 #### 2 Class Template 类模版
 #### 3 Nontype Template Parameters 非类型模版参数
 #### 4 Variadic Tempaltes 可变参数模版
