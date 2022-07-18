@@ -12,9 +12,9 @@ The note of C++ templates 2nd
 OS：Arch Linux x86_64   
 Compiler：GCC 12.1.0  
 C++ Standard：C++20 
-  
+
 关注桃几OvO喵，关注桃几OvO谢谢喵🙏🙏🙏  
-💗人形自走播放器💗锐评的王💗多语种超大曲库💗超长待机💗  
+💗人形自走播放器💗多语种超大曲库💗超长待机💗锐评的王💗  
 https://space.bilibili.com/1104048496/  
 https://live.bilibili.com/22642754  
 
@@ -23,7 +23,7 @@ https://live.bilibili.com/22642754
 #### 1 Function Templates 函数模版 ✅
 #### 2 Class Template 类模版 ✅
 #### 3 Nontype Template Parameters 非类型模版参数 ✅
-#### 4 Variadic Tempaltes 可变参数模版
+#### 4 Variadic Tempaltes 可变参数模版 ✅
 #### 5 Tricky Basics  基础技术
 #### 6 Move Semantics and enable_if<> 移动语义与enable_if<>
 #### 7 By Value or by Reference? 按值传递还是按按引用传递？
