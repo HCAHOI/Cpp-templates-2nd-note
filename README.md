@@ -12,6 +12,10 @@ The note of C++ templates 2nd
 OS：Arch Linux x86_64   
 Compiler：GCC 12.1.0  
 C++ Standard：C++20 
+  
+关注桃几OvO喵，关注桃几OvO谢谢喵🙏🙏🙏  
+https://space.bilibili.com/1104048496/  
+https://live.bilibili.com/22642754  
 
 ## 目录/进度  
 ### PartI：The Basics 基本概念 (激情进行中！)
