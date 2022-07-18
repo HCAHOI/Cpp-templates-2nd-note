@@ -11,13 +11,13 @@ The note of C++ templates 2nd
 所有示例代码在以下平台验证通过  
 OS：Arch Linux x86_64   
 Compiler：GCC 12.1.0  
-C++ Standard：C++20  
+C++ Standard：C++20 
 
 ## 目录/进度  
 ### PartI：The Basics 基本概念 (激情进行中！)
 #### 1 Function Templates 函数模版 ✅
 #### 2 Class Template 类模版 ✅
-#### 3 Nontype Template Parameters 非类型模版参数
+#### 3 Nontype Template Parameters 非类型模版参数 ✅
 #### 4 Variadic Tempaltes 可变参数模版
 #### 5 Tricky Basics  基础技术
 #### 6 Move Semantics and enable_if<> 移动语义与enable_if<>
@@ -35,7 +35,7 @@ C++ Standard：C++20
 #### 17 Future Directions 未来发展方向
 ### PartIII:Templates and Design 模版与设计
 #### 18 The Polymorphic Power of Templates 模版的多态性
-#### 19 Implementing Traits Trait的实现
+#### 19 Implementing Traits Traits的实现
 #### 20 Overloading on Type Properities 类型属性的重载
 #### 21 Templates and Inheritance 模版与继承
 #### 22 Bridging Static and Dynamic Polymorphism 桥接静态和动态多态性
