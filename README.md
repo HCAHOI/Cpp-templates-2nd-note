@@ -14,9 +14,9 @@ Compiler：GCC 12.1.0
 C++ Standard：C++20  
 
 ## 目录/进度  
-### PartI：The Basics 基本概念
+### PartI：The Basics 基本概念 (激情进行中！)
 #### 1 Function Templates 函数模版 ✅
-#### 2 Class Template 类模版
+#### 2 Class Template 类模版 ✅
 #### 3 Nontype Template Parameters 非类型模版参数
 #### 4 Variadic Tempaltes 可变参数模版
 #### 5 Tricky Basics  基础技术

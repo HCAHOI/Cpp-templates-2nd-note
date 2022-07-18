@@ -1,5 +1,9 @@
 # 1 Function Templates 函数模版
 
+注意：本笔记中所有C++XX标准之前的表述均不包含C++XX标准，所有C++XX标准之后的表述均包含C++XX。
+
+eg. C++17之前,指到C++14为止;C++17之后,包含C++17标准.
+
 ## 1.1 A First Look at Function Templates 初识模版函数
 
 ### 1.1.1 Defining the Template 定义模版
