@@ -14,7 +14,7 @@ Compiler：GCC 12.1.0
 C++ Standard：C++20 
   
 关注桃几OvO喵，关注桃几OvO谢谢喵🙏🙏🙏  
-💗人形自走播放器💗锐评的王💗多语种超大曲库💗超长待机💗
+💗人形自走播放器💗锐评的王💗多语种超大曲库💗超长待机💗  
 https://space.bilibili.com/1104048496/  
 https://live.bilibili.com/22642754  
 
