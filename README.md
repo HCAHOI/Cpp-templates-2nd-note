@@ -24,7 +24,7 @@ https://live.bilibili.com/22642754
 #### 2 Class Template 类模版 ✅
 #### 3 Nontype Template Parameters 非类型模版参数 ✅
 #### 4 Variadic Tempaltes 可变参数模版 ✅
-#### 5 Tricky Basics  基础技术
+#### 5 Tricky Basics  基础技术 ✅
 #### 6 Move Semantics and enable_if<> 移动语义与enable_if<>
 #### 7 By Value or by Reference? 按值传递还是按按引用传递？
 #### 8 Compile-Time Programming 编译时编程
