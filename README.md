@@ -27,7 +27,7 @@ https://live.bilibili.com/22642754
 #### 5 Tricky Basics  基础技术 ✅
 #### 6 Move Semantics and enable_if<> 移动语义与enable_if<> ✅
 #### 7 By Value or by Reference? 按值传递还是按按引用传递？ ✅
-#### 8 Compile-Time Programming 编译时编程
+#### 8 Compile-Time Programming 编译时编程 ✅
 #### 9 Using Templates in Paractice 在实践中使用模版
 #### 10 Basic Tempalte Terminlogy 基本模版术语
 #### 11 Generic Libraries 泛型库
