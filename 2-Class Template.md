@@ -1,6 +1,6 @@
 # 2 Class Tempalte 类模版
 
-## 2.1 Implement of Class Template *Stack* Stack模版类的实现 
+## 2.1 Implement of Class Template *Stack* Stack类模版的实现 
 
 一个自制Stack类
 
@@ -40,7 +40,7 @@ T const& Stack<T>::top() const {
 }
 ```
 
-### 2.1.1 Declaration of Class Templates 模版类的声明
+### 2.1.1 Declaration of Class Templates 类模版的声明
 
 在类模版内使用不带模版参数的类名表示表示以模版参数为实参(暂时没看懂.但是似乎表达的东西很简单) *细节见13.2.3节*
 
@@ -76,7 +76,7 @@ void Stack<T>::pop() {
 
 这里的assert()是为了避免在vector为空时仍然弹出元素导致undifined-behaviour
 
-## 2.2 Use of Class Template *Stack* Stack模版类的使用
+## 2.2 Use of Class Template *Stack* Stack类模版的使用
 
 在C++17标准之前,Stack对象的声明必须显式指定模版参数
 
@@ -114,7 +114,7 @@ class C{
 
 ## 2.4 Friends 友元
 
-就是模版类的友元,原理大致相同
+就是类模版的友元,原理大致相同
 
 ## 2.5 Specializations of Class Templates 类模版特化
 

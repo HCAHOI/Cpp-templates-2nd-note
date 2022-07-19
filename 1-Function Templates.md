@@ -4,11 +4,11 @@
 
 eg. C++17之前,指到C++14为止;C++17之后,包含C++17标准.
 
-## 1.1 A First Look at Function Templates 初识模版函数
+## 1.1 A First Look at Function Templates 初识函数模版
 
 ### 1.1.1 Defining the Template 定义模版
 
-定义了简单的模版函数
+定义了简单的函数模版
 
 ```cpp
 template<typename T>
@@ -37,7 +37,7 @@ T max(T a, T b) {
 
 ## 1.2 Template Argument Deduction 模版参数推导
 
-简单的模版类型推导,唯一值得注意的
+简单的类模版型推导,唯一值得注意的
 
 ```cpp
 template<typename T>
@@ -83,7 +83,7 @@ RT max(T1 a, T2 b) {
 ::max<double>(4.2, 7);	//返回值将会是double类型
 ```
 
-注意上面的::,调用模版函数会默认在起头加上::,所以也可以不加
+注意上面的::,调用函数模版会默认在起头加上::,所以也可以不加
 
 ### 1.3.2 Deducing the Return Type 返回类型推导
 
@@ -179,7 +179,7 @@ RT max(T1 a, T2 b) {
 
 总体原则是---转换越少越匹配,但是但是不能有两个及以上重载函数同时匹配
 
-确保在模版函数前能看到所有重载版本.
+确保在函数模版前能看到所有重载版本.
 
 ```cpp
 int max(int a, int b) {

@@ -1,7 +1,6 @@
 # C++-templates-2nd-note
 The note of C++ templates 2nd    
 
-
 新建这个repo是因为我是懒狗🐕，希望我不会半途而废🧎🏻  
 因为书是英文版而我是纯纯英语弱鸡所以会看得很慢呜呜😭  
 只会写我觉得重要或者我之前不知道的东西，所以看这些笔记代替看书是非常错误的😈   
@@ -29,7 +28,7 @@ https://live.bilibili.com/22642754
 #### 7 By Value or by Reference? 按值传递还是按按引用传递？ ✅
 #### 8 Compile-Time Programming 编译时编程 ✅
 #### 9 Using Templates in Paractice 在实践中使用模版 ✅
-#### 10 Basic Tempalte Terminlogy 基本模版术语
+#### 10 Basic Tempalte Terminlogy 基本模版术语 ✅
 #### 11 Generic Libraries 泛型库
 ### PartII:Templates in Depth 深入模版
 #### 12 Fundamentals in Depth 深入模版基础
