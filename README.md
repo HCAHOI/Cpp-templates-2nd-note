@@ -18,7 +18,7 @@ https://space.bilibili.com/1104048496/
 https://live.bilibili.com/22642754  
 
 ## 目录/进度  
-### PartI：The Basics 基本概念 (激情进行中！)
+### PartI：The Basics 基本概念 ✅
 #### 1 Function Templates 函数模版 ✅
 #### 2 Class Template 类模版 ✅
 #### 3 Nontype Template Parameters 非类型模版参数 ✅
@@ -29,8 +29,8 @@ https://live.bilibili.com/22642754
 #### 8 Compile-Time Programming 编译时编程 ✅
 #### 9 Using Templates in Paractice 在实践中使用模版 ✅
 #### 10 Basic Tempalte Terminlogy 基本模版术语 ✅
-#### 11 Generic Libraries 泛型库
-### PartII:Templates in Depth 深入模版
+#### 11 Generic Libraries 泛型库 ✅
+### PartII:Templates in Depth 深入模版 (激情进行中！)
 #### 12 Fundamentals in Depth 深入模版基础
 #### 13 Names in Templates 模版中的名称
 #### 14 Instantiation 实例化
