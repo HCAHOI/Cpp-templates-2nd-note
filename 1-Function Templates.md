@@ -223,15 +223,15 @@ int main() {
 
 ## 1.6 But, Shouldn't We...? 但是...我们不应该?...
 
-### 1.6.1 Pass by Value or by Reference? 按值返回还是按引用返回?
+### 1.6.1 Pass by Value or by Reference? 按值传递还是按引用传递?
 
 按照《Effective C++》中的观点,应该无脑选择按值返回,这里简要描述本书中的观点
 
 * 语法简单
-* 编译器可以进行更好的优化 (For example, Return Value Optimization)
+* 编译器可以进行更好的优化 
 
 * 可以使用移动语义
-* 有的时候根本不需要进行移动或拷贝(这不就是说Return Value Opeimization嘛)
+* 有的时候根本不需要进行移动或拷贝
 
 * 容易出现内存管理问题
 * 如果一定要传引用,使用std::ref()和std::cref() (见Section 7.3)
